@@ -26,7 +26,7 @@ class HomePage extends StatelessWidget {
         actions: [
           Padding(
             padding: const EdgeInsets.only(right: 20),
-            child: Icon(Icons.person, color: Colors.white, size: 30),
+            child: Icon(Icons.notifications_active, color: Colors.white, size: 30),
           ),
         ],
       ),
